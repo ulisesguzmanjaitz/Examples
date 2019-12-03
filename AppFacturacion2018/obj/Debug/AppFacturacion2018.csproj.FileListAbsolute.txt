@@ -1,0 +1,73 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form1.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Properties.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Menu.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Productos.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.IngresoProdStock.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Ventas.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Balance.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Clientes.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Cuentas.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form1.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.IngresoProdStock.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.LibroMayor.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Menu.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Productos.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Ventas.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.csproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.exe
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.pdb
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.exe
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.pdb
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.BalanceDetalleCuentas.resources
+C:\Users\Peter\Documents\Visual Studio 2008\Projects\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form2.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.exe
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.pdb
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.exe
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.pdb
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.csprojResolveAssemblyReference.cache
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Balance.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.BalanceDetalleCuentas.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Clientes.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Cuentas.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form1.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form2.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.IngresoProdStock.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.LibroMayor.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Menu.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Productos.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Properties.Resources.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Ventas.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\angel pen\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.csproj.GenerateResource.Cache
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.exe
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.pdb
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Balance.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.BalanceDetalleCuentas.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Clientes.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Cuentas.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form1.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Form2.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.IngresoProdStock.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.LibroMayor.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Menu.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Productos.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Properties.Resources.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.Ventas.resources
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\obj\Debug\AppFacturacion2018.csproj.GenerateResource.Cache
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.exe
+D:\2010-04-12 ulises\pendrive ulises 21 de junio de 2016\PENDRIVE 2019\programas\Copia de AppFacturacion2018\AppFacturacion2018\bin\Debug\AppFacturacion2018.pdb
