@@ -1,0 +1,98 @@
+
+
+h2{
+    font-size: 2vw;
+    text-align: center;
+    margin: 0;
+    color: black;
+    padding: 5px 5px 5px 5px;
+    border:black 2px solid;
+}
+
+.events{
+    background-color: white;
+    text-align: center;
+    width:66%;
+    height: 5%;
+    color: black;
+    margin: 0;
+    display: inline-block;
+    
+    
+}
+
+.imglogo{
+    
+   position: absolute;
+    top:95%;
+    left: 0;
+    width: 15%;
+    height: 35%;
+}
+
+
+nav{
+    display: inline;
+    margin-left: 20%;
+   
+}
+nav ul{
+    position: absolute;
+    margin-left: 30%;    
+    top: 2%;
+    
+}
+nav ul li{
+    
+    
+    white-space: nowrap;
+    font-size: 25px;
+    display: inline;
+    list-style: none;
+    border-top: black 2px  outset ;
+    border-right: black 8px  outset ;
+    border-bottom: black 8px  outset ;
+    border-left: black 2px  outset ;
+    
+   
+   
+}
+
+a{
+    
+    color: #fff;
+    background-color:#045FB4; 
+    
+     text-decoration: none;
+}
+nav ul li #actual{
+   
+     color: #fff;
+    
+    background-color: #82FA58;
+    
+}
+section {
+  
+    float: left;
+    text-align: center;  
+    margin-left: 18%;
+    
+}    
+
+#about {
+    margin-left: 10%;
+    
+}
+p a{
+    color: blue;
+    background-color: white;
+}
+.contact{
+    text-align: center;
+    width: 40%;
+    
+    margin-left: 15%;
+    margin-top: 2%;
+   
+}

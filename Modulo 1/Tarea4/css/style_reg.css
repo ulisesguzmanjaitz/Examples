@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+}
+#back{
+ color: #5100f9;   
+    font-size: 35px;
+}
+.setenta label{
+    width: 100%;
+    margin: auto;
+    float:left;
+}
+.setenta input{
+    width: 70%;
+    margin: auto;
+
+}
+.cuarenta1{
+    width: 40%;
+    margin: auto;
+}
+.cincuenta{
+    float: left;
+    width: 40%;
+    margin: auto;
+    padding: 0;
+   
+}
+
+#grade{
+    float: right;
+    width: 100%; 
+    margin: auto;
+}
+#grade input{
+    margin: 13px 12px 0 0;
+}
+.fecha{
+    width:40%;
+    margin: auto 1px;
+}
+label{
+    float: left;
+    padding: 10px 15px;
+}
+fieldset{
+    display: block;
+    font-size: 15px;
+}
+fieldset label{
+    font-weight: 600;
+    width: 100%;
+    margin: auto; 
+}
+fieldset input{
+    width: 7%;
+    text-align: left;
+    vertical-align: middle;
+    text-align: center;
+    margin: auto;
+}
+.subtitulo{
+    margin-right: 30%;
+    font-weight: 600;     
+    font-size: 20px;
+    float: left;
+}
+.subtituloMenor{
+    font-size: 15px;
+    font-weight: 600;
+    float: left;
+}
+fieldset{
+    width: 80%;
+    height: 20%;
+    margin-top: 15px;
+    float: left;
+    margin: 15px auto auto auto;
+}
+.nocheck{
+   width: 50px;
+}
+#permission {
+    text-align: left;
+    margin-right: 3px;
+    background-color: red;
+}

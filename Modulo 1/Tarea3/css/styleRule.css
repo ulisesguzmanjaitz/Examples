@@ -1,0 +1,22 @@
+body{
+    background-color:#9AFE2E;  
+}
+h1,h2,.centrado{
+    text-align: center;   
+}
+ul {
+  list-style-type: square;
+}
+ul li{
+    margin-left: 50px;
+}
+p{
+    text-align: left;
+}
+#ulEditado{
+    list-style-type: circle;
+}
+a{
+    font-size: 40px;
+    
+}

@@ -1,0 +1,128 @@
+body{
+    
+    background-color:#9AFE2E;
+   
+}
+header h1{
+    font-size: 100px;
+    float:left;
+    position: absolute;
+    top:2%;
+    left:45%;
+    text-align: center;
+    margin: 0;
+    
+    
+}
+
+
+h2{
+    font-size: 3vw;
+    text-align: center;
+    margin: 0;
+    border: #f5f5dc 4px solid; 
+    background-color: #03bb85;
+}
+
+
+.imgAbsolute{
+    
+   position: absolute;
+    top:78.5%;
+    left:33%;
+    width: 50px;
+    height: 50px;
+}
+nav{
+    display: block;
+    float: left;
+    vertical-align: bottom;
+    
+}
+nav ul{
+    float: left;
+    width: 6%;
+    font-size: 30px;
+    
+
+}
+
+aside{
+    
+    text-align: left;
+}
+section{
+   margin-top: 50px;
+    float: left;
+   
+    text-align: left;
+    font-size: 30px
+}
+section article p{
+    border: #f5f5dc 10px solid;
+    
+}
+li{
+    margin-top:50px;
+    list-style: none;
+    
+}
+
+ul{
+    float: left;
+    
+}
+a:link {color:#000000;
+text-decoration:none}
+
+a:visited{color:#000000;
+text-decoration:none}
+
+a:hover{color:#0000ff;
+text-decoration:underline }
+
+img{
+
+height:500px;
+width:600px;
+    border: #f5f5dc 2px solid;
+}
+.imgLogo{
+    width: 15%;
+    height: 25%;
+    background-color: #03bb85;
+}
+#about {
+    margin: 0;
+    text-align: left;
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    width: 50%;
+    
+}
+
+
+#about h3{
+   
+    width: 50px;
+    float: left;
+    color:#B40486;
+    
+}
+#about p{
+    float: left;
+    border: #f5f5dc 10px solid;
+    
+    
+}
+
+.contact {
+    width: 25%;
+    border: #f5f5dc 10px solid;
+}
+ 
+#actual{
+    color:#DF013A;
+    
+}

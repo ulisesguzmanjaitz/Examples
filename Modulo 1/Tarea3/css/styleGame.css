@@ -1,0 +1,41 @@
+body{
+    background-color:#9AFE2E;  
+}
+/*header*/
+h1{
+    text-align: center;
+}
+h4{
+    text-decoration:underline;
+}
+/*table*/
+table{
+    margin-left:3%;
+}
+table tr th{
+    text-align: left;
+}
+table tr td{
+    text-align: left;
+}
+#alinearth{
+    float: left;
+}
+.tab12{
+    text-decoration:underline;
+}
+a{
+    text-decoration:underline;
+}
+#alinearEmail{
+    width: 40%;
+    float: right;
+    margin-right: auto;
+}
+#alinearPhone{
+    width: 30%;
+    float: left;
+}
+#back{
+    font-size: 40px;
+}

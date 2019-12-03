@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!--<link rel="stylesheet" href="css/normalize.css">-->
+    <link rel="stylesheet" href="css/minNormalize.css">
+    <link rel="stylesheet" href="css/style_reg.css">
+    <!--<link rel="stylesheet" href="css/style3.css">-->
+    <link rel="stylesheet" href="css/minStyleReg.css">
+    
+    <meta charset="utf-8">
+    <title> Registration </title>
+</head>
+
+<body>
+    <h1><strong>Registration Form</strong></h1>
+    <nav>
+        <a id="back" href="index.html">&#60;&#61; Back</a>
+    </nav>
+    <br>
+    <form method="get" action="show_data.html">
+        <p class="cincuenta">
+            <label>Player’s First Name:
+                <input type="text" name="firstName" required autofocus>
+            </label>
+        </p>
+        <p class="cincuenta">
+            <label>Last Name:
+                <input type="text" name="lastName" required>
+            </label>
+        </p>
+        <p class="setenta">
+            <label>Street Address:
+                <input type="text" name="address" required>
+            </label>
+
+        </p>
+        <p class="cincuenta">
+            <label>City:
+                <input type="text" name="city" required>
+            </label>
+
+        </p>
+        <p class="cincuenta">
+            <label>Zip Code:
+                <input type="url" name="zipCode">
+            </label>
+        </p>
+        <p class="fecha">
+            <label>Birth Date (mm/dd/yyyy):
+                <input type="date" name="birth" required>
+            </label>
+        </p>
+        <p class="cincuenta">
+            <label>Gender: 
+            <input type=radio name="gender" value="Female"> Female
+            <input type=radio name="gender" value="Male"> Male</label>
+            
+        </p>
+        <p id="grade">
+            <label>Grade:</label>
+            <input type="checkbox" name="pre-School" value="Pre-School">Pre-School
+            <input type="checkbox" name="1st" value="1st">1st
+            <input type="checkbox" name="2nd" value="2nd">2nd
+            <input type="checkbox" name="3rd" value="3rd">3rd
+            <input type="checkbox" name="4th" value="4th">4th
+            <input type="checkbox" name="5th" value="5th">5th
+        </p>
+        <p class="setenta">
+            <label>Parent/Guardian:
+                <input type="text" name="parentGuardian">
+            </label>
+
+        </p>
+
+        <p class="cincuenta">
+            <label>Contact Phone:
+                <input type="number" name="phone" required>
+            </label>
+        </p>
+        <p class="cincuenta">
+            <label>Contact Email:
+                <input type="email" name="email" required>
+            </label>
+        </p>
+        <p class="subtitulo">
+            <label>Which elementary schools do you live near? </label>
+        </p>
+
+        <fieldset>
+            <legend><strong>First Closest School:</strong></legend>
+            <input type="checkbox" name="AJ Katzenmaier" value="AJ Katzenmaier">AJ Katzenmaier
+            <input type="checkbox" name="Greenbay" value="Greenbay">Greenbay
+            <input type="checkbox" name="Howard A Yeager" value="Howard A Yeager">Howard A Yeager
+            <input type="checkbox" name="Marjorie P Hart" value="Marjorie P Hart">Marjorie P Hart
+            <input type="checkbox" name="North Elementary" value="North Elementary">North Elementary
+            <input type="checkbox" name="South Elementary" value="South Elementary">South Elementary
+        </fieldset>
+
+        <fieldset>
+            <legend><strong>Second Closest School:</strong></legend>
+            <input type="checkbox" name="AJ Katzenmaier2" value="AJ Katzenmaier">AJ Katzenmaier
+            <input type="checkbox" name="Greenbay2" value="Greenbay">Greenbay
+            <input type="checkbox" name="Howard A Yeager2" value="Howard A Yeager">Howard A Yeager
+            <input type="checkbox" name="Marjorie P Hart2" value="Marjorie P Hart">Marjorie P Hart
+            <input type="checkbox" name="North Elementary2" value="North Elementary">North Elementary
+            <input type="checkbox" name="South Elementary2" value="South Elementary">South Elementary
+        </fieldset>
+
+        <fieldset>
+            <legend><strong>What position(s) do you normally play?</strong></legend>
+            <label>(check all that apply) </label>
+            <input type="checkbox" name="Forward" value="Forward">Forward
+            <input type="checkbox" name="Defense" value="Defense">Defense
+            <input type="checkbox" name="Midfield" value="Midfield">Midfield
+            <input type="checkbox" name="Goalkeeper" value="Goalkeeper">Goalkeeper
+        </fieldset>
+
+        <fieldset>
+            <legend><strong>What position(s) do you want play?</strong></legend>
+            <label>(check all that apply) </label>
+            <input type="checkbox" name="Forward" value="Forward">Forward
+            <input type="checkbox" name="Defense" value="Defense">Defense
+            <input type="checkbox" name="Midfield" value="Midfield">Midfield
+            <input type="checkbox" name="Goalkeeper" value="Goalkeeper">Goalkeeper
+
+        </fieldset>
+        <p class="subtitulo">
+            <input type="checkbox" name="Goalkeeper" value="Goalkeeper">Already Have a Uniform
+        </p>
+        <fieldset>
+            <legend><strong>Jersey Size:</strong></legend>
+
+            <input type="checkbox" name="Youth Small" value="Youth Small">Youth Small
+            <input type="checkbox" name="Youth Medium" value="Youth Medium">Youth Medium
+            <input type="checkbox" name="Youth Large" value="Youth Large">Youth Large
+            <input type="checkbox" name="Small" value="Small">Small
+            <input type="checkbox" name="Medium" value="Medium">Medium
+            <input type="checkbox" name="Large" value="Large">Large
+            <input type="checkbox" name="Extra-Large " value="Extra-Large ">Extra-Large
+        </fieldset>
+        <fieldset>
+            <legend><strong>Shorts Size:</strong></legend>
+            <input type="checkbox" name="Youth Small2" value="Youth Small">Youth Small
+            <input type="checkbox" name="Youth Medium2" value="Youth Medium">Youth Medium
+            <input type="checkbox" name="Youth Large2" value="Youth Large">Youth Large
+            <input type="checkbox" name="Small2" value="Small">Small
+            <input type="checkbox" name="Medium2" value="Medium">Medium
+            <input type="checkbox" name="Large2" value="Large">Large
+            <input type="checkbox" name="Extra-Large2" value="Extra-Large ">Extra-Large
+        </fieldset>
+        <fieldset>
+            <legend><strong>Permission to Play</strong></legend>
+
+            <label>I, the parent or guardian of the minor registrant, agree that the registrant and I will abide by all the rules of the Northside Youth
+                Soccer League (NYSL). In recognizing the possibility of physical injury associated with soccer and in consideration for the “League”
+                accepting the registrant for its soccer programs and activities, I hereby release, discharge, and/or otherwise indemnify NYSL, their
+                employees and associated personnel and volunteers, including the facilities used for practices and games, against any claim by or
+                on behalf of the registrant as a result of the registrant’s participation in the program and/or being transported to or from NYSL
+                sponsored activities, which transportation. </label>
+
+            <label>By signing below, I hereby agree and authorize the above. In addition, by signing below, I also acknowledge that I have read the
+                cancellation policy and agree to its terms. </label>
+            <p>
+                <label>Parent/guardian </label>
+                <label>Signature:
+                    <input type="text" name="username">
+                </label>
+            </p>
+            <p>
+                <label>Date:
+                    <input class="fecha" type="date" name="username">
+                </label>
+            </p>
+            <input class="nocheck" type="submit" name="submit" value="Send">
+        </fieldset>
+    </form>
+</body>
+
+</html>
