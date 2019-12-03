@@ -1,0 +1,52 @@
+//REALIZAR IMAGENES FLUIDAS
+img { max-width: 100%; }
+
+
+Aquí está el contenido de mobile.css (más simple) :
+
+#content{
+  width: 100%;
+}
+
+#sidebar-left{
+  display: none;
+}
+
+#sidebar-right{
+  display: none;
+}
+.sidebar-nav{display: inline;}
+
+
+<!--<script type="text/javascript"> codigo para navegadores más antiguos (IE 5+, Firefox 1+, Safari 2) admitan consultas de medios CSS3
+  $(document).ready(function(){
+    $(window).bind("resize", resizeWindow);
+    function resizeWindow(e){
+      var newWindowWidth = $(window).width();
+
+      // If width width is below 600px, switch to the mobile stylesheet
+      if(newWindowWidth < 600){        $("link[rel=stylesheet]").attr({href : "mobile.css"});        }       // Else if width is above 600px, switch to the large stylesheet       else if(newWindowWidth > 600){
+        $("link[rel=stylesheet]").attr({href : "style.css"});
+      }
+    }
+  });
+</script>-->
+
+
+<html class="no-js" lang="en">
+
+
+//busqueda personalizada de google
+
+
+Bootstrap proporciona las clases para que la incrustación sea receptiva. La mayor parte del tiempo que requieren para mostrar 3 rd de aplicaciones de terceros dentro de nuestra página web. Así que podemos usar la <embed>, <iframe>, <video> or <object>etiqueta para incrustar estas aplicaciones de terceros.
+
+Bootstrap proporciona la clase .embed-responsivepara crear incrustaciones responsivas. También podemos proporcionar una relación de aspecto a una relación de aspecto diferente.
+
+.embed-responsive-16by9 - Muestra el video incrustado o en ancho y alto de 16: 9
+.embed-responsive-4by3 - Mostrar el contenido insertado o video en ancho y alto de 4: 3
+
+<div class="embed-responsive embed-responsive-4by3">
+    <iframe src="https://www.youtube.com/embed/afsdfsdSg5l_Eo" width="425" height="350"></iframe>
+</div>
+<script>document.documentElement.classList.remove('no-js'); document.documentElement.classList.add('js')</script>
