@@ -1,0 +1,9 @@
+#test {
+  background: url(https://c1.staticflickr.com/9/8500/8315697815_69cb2a99ba_b.jpg);
+  background-size: cover;
+  color: lightgreen;
+  font: bold 14px arial;
+  width: 140px;
+  height: 140px;
+  border: 2px solid #999999;
+}    

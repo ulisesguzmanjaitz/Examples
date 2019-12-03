@@ -1,0 +1,284 @@
+var data ={
+   "status":"OK",
+   "copyright":" Copyright (c) 2019 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "113",
+         "chamber": "Senate",
+         "num_results": 18,
+         "offset": 0,
+         "members": [
+              {
+                 "id": "L000550",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/L000550.json",
+                 "first_name": "Mary",
+                 "middle_name": "L.",
+                 "last_name": "Landrieu",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "LA",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Defeated in general election",
+                 "note": "Defeated in general runoff election."
+               },
+                           {
+                 "id": "H001049",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/H001049.json",
+                 "first_name": "Kay",
+                 "middle_name": null,
+                 "last_name": "Hagan",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "NC",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Defeated in general election",
+                 "note": "Defeated in general election."
+               },
+                           {
+                 "id": "P000590",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/P000590.json",
+                 "first_name": "Mark",
+                 "middle_name": null,
+                 "last_name": "Pryor",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "AR",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Defeated in general election",
+                 "note": "Defeated in general election."
+               },
+                           {
+                 "id": "U000038",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/U000038.json",
+                 "first_name": "Mark",
+                 "middle_name": null,
+                 "last_name": "Udall",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "CO",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Defeated in general election",
+                 "note": "Defeated in general election."
+               },
+                           {
+                 "id": "W000818",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/W000818.json",
+                 "first_name": "John",
+                 "middle_name": null,
+                 "last_name": "Walsh",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "MT",
+                 
+                 "begin_date": "2014-02-11",
+                 "end_date": "2015-01-03",
+                 "status": "Retiring",
+                 "note": "Appointed to replace Max S. Baucus; sworn in on Feb. 11, 2014."
+               },
+                           {
+                 "id": "C000560",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C000560.json",
+                 "first_name": "Tom",
+                 "middle_name": null,
+                 "last_name": "Coburn",
+                 "suffix": null,
+                 "party": "R",
+                 "state": "OK",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-03",
+                 "status": "Retiring",
+                 "note": "Announced that he would leave office at the end of 2014."
+               },
+                           {
+                 "id": "C001099",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001099.json",
+                 "first_name": "William",
+                 "middle_name": null,
+                 "last_name": "Cowan",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "MA",
+                 
+                 "begin_date": "2013-02-07",
+                 "end_date": "2013-07-15",
+                 "status": "Left Congress",
+                 "note": "Appointed to Senate on Feb. 1, 2013, to replace John Kerry. Replaced by Edward J. Markey on July 16, 2013."
+               },
+                           {
+                 "id": "L000123",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/L000123.json",
+                 "first_name": "Frank",
+                 "middle_name": "R.",
+                 "last_name": "Lautenberg",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "NJ",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2013-06-03",
+                 "status": "Left Congress",
+                 "note": "Died on June 3, 2013."
+               },
+                           {
+                 "id": "B000243",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/B000243.json",
+                 "first_name": "Max",
+                 "middle_name": null,
+                 "last_name": "Baucus",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "MT",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2014-02-06",
+                 "status": "Appointed to federal post",
+                 "note": "Announced retirement on April 23, 2013. Appointed ambassador to China and resigned on Feb. 6, 2014."
+               },
+                           {
+                 "id": "J000177",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/J000177.json",
+                 "first_name": "Tim",
+                 "middle_name": null,
+                 "last_name": "Johnson",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "SD",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Retiring",
+                 "note": "Announced retirement on March 26, 2013."
+               },
+                           {
+                 "id": "L000261",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/L000261.json",
+                 "first_name": "Carl",
+                 "middle_name": null,
+                 "last_name": "Levin",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "MI",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Retiring",
+                 "note": "Announced retirement on March 7, 2013."
+               },
+                           {
+                 "id": "J000291",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/J000291.json",
+                 "first_name": "Mike",
+                 "middle_name": null,
+                 "last_name": "Johanns",
+                 "suffix": null,
+                 "party": "R",
+                 "state": "NE",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Retiring",
+                 "note": "Announced retirement on Feb. 18, 2013."
+               },
+                           {
+                 "id": "K000148",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/K000148.json",
+                 "first_name": "John",
+                 "middle_name": null,
+                 "last_name": "Kerry",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "MA",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2013-02-01",
+                 "status": "Appointed to federal post",
+                 "note": "Resigned on Feb. 1, 2013 to become Secretary of State."
+               },
+                           {
+                 "id": "H000206",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/H000206.json",
+                 "first_name": "Tom",
+                 "middle_name": null,
+                 "last_name": "Harkin",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "IA",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Retiring",
+                 "note": "Announced retirement on Jan. 26, 2013."
+               },
+                           {
+                 "id": "C000286",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C000286.json",
+                 "first_name": "Saxby",
+                 "middle_name": null,
+                 "last_name": "Chambliss",
+                 "suffix": null,
+                 "party": "R",
+                 "state": "GA",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-03",
+                 "status": "Retiring",
+                 "note": "Announced retirement on Jan. 25, 2013."
+               },
+                           {
+                 "id": "R000361",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/R000361.json",
+                 "first_name": "John",
+                 "middle_name": "D.",
+                 "last_name": "Rockefeller",
+                 "suffix": "IV",
+                 "party": "D",
+                 "state": "WV",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Retiring",
+                 "note": "Announced retirement on Jan. 11, 2013."
+               },
+                           {
+                 "id": "C001100",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/C001100.json",
+                 "first_name": "Jeffrey",
+                 "middle_name": "S.",
+                 "last_name": "Chiesa",
+                 "suffix": null,
+                 "party": "R",
+                 "state": "NJ",
+                 
+                 "begin_date": "2013-06-10",
+                 "end_date": "2013-10-30",
+                 "status": "Left Congress",
+                 "note": "Filled vacancy created by the death of Democrat Frank R. Lautenberg. Replaced by Cory Booker."
+               },
+                           {
+                 "id": "B001265",
+                 "api_uri":"https://api.propublica.org/congress/v1/members/B001265.json",
+                 "first_name": "Mark",
+                 "middle_name": null,
+                 "last_name": "Begich",
+                 "suffix": null,
+                 "party": "D",
+                 "state": "AK",
+                 
+                 "begin_date": "2013-01-03",
+                 "end_date": "2015-01-02",
+                 "status": "Defeated in general election",
+                 "note": "Defeated by Dan Sullivan."
+               }
+             ]
+      }
+   ]
+}

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>TGIF Senate</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <header class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <img class="d-inline-block align-top" src="../img/logo.png" width="auto" height="118">
+            </div>
+
+            <div class="col align-self-center nav justify-content-end m-5">
+                <a href="#">
+                    <img class="d-inline-block align-top" src="../img/13650.png" width="auto" height="30">
+                    <a href="info@tgif.net"><span class="info@tgif.net"></span></a> <a href="mailto:info@tgif.net"> &nbsp; info@tgif.net</a></a>
+            </div>
+        </div>
+
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
+            <a class="navbar-brand" href="home-starter-page.html">Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav mr-auto">
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Congress 113</a>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="house-starter-page.html">House</a>
+                            <a class="dropdown-item" href="#">Senate</a>
+
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+    </header>
+    <!--Table container-->
+    <div class="container-fluid container-responsive">
+        <h2>Senators</h2>
+        <p>First convened in 1789, the composition and powers of the Senate are established in Article One of the U.S. Constitution. Each state is represented by two senators, regardless of population, who serve staggered six-year terms. The Senate has several exclusive powers not granted to the House, including consenting to treaties as a precondition to their ratification and consenting to or confirming appointments of Cabinet secretaries, federal judges, other federal executive officials, military officers, regulatory officials, ambassadors, and other federal uniformed officers, as well as trial of federal officials impeached by the House.</p>
+        <label for="">Filter by Party: </label>
+        <label><input type="checkbox" name="party" value="R" id="party_republican" onchange="ActualizarTabla()" checked> Republican</label>
+
+        <input type="checkbox" name="party" value="D" id="party_democrat" onchange="ActualizarTabla()" checked> <label for="cbox2">Democrat</label>
+        <input type="checkbox" name="party" value="I" id="party_independent" onchange="ActualizarTabla()" checked> <label for="cbox2">Independent</label>
+
+        <form action="">
+
+            <fieldset class="form-group">
+                <legend class="col-form-label-lg">Filter by State</legend>
+                <select class="form-control" name="state_select" onchange="ActualizarTabla()" id="fieldSetStates">
+                    <option value="allStates" selected>AllStates</option>
+                    <option value="dc_state">DC</option>
+                    <option value="al_state">AL</option>
+                    <option value="ak_state">AK</option>
+                    <option value="az_state">AZ</option>
+                    <option value="ar_state">AR</option>
+                    <option value="ca_state">CA</option>
+                    <option value="co_state">CO</option>
+                    <option value="ct_state">CT</option>
+                    <option value="de_state">DE</option>
+                    <option value="fl_state">FL</option>
+                    <option value="ga_state">GA</option>
+                    <option value="hi_state">HI</option>
+                    <option value="id_state">ID</option>
+                    <option value="il_state">IL</option>
+                    <option value="in_state">IN</option>
+                    <option value="ia_state">IA</option>
+                    <option value="ks_state">KS</option>
+                    <option value="ky_state">KY</option>
+                    <option value="la_state">LA</option>
+                    <option value="me_state">ME</option>
+                    <option value="md_state">MD</option>
+                    <option value="ma_state">MA</option>
+                    <option value="mi_state">MI</option>
+                    <option value="mn_state">MN</option>
+                    <option value="ms_state">MS</option>
+                    <option value="mo_state">MO</option>
+                    <option value="mt_state">MT</option>
+                    <option value="ne_state">NE</option>
+                    <option value="nv_state">NV</option>
+                    <option value="nh_state">NH</option>
+                    <option value="nj_state">NJ</option>
+                    <option value="nm_state">NM</option>
+                    <option value="ny_state">NY</option>
+                    <option value="nc_state">NC</option>
+                    <option value="nd_state">ND</option>
+                    <option value="oh_state">OH</option>
+                    <option value="ok_state">OK</option>
+                    <option value="or_state">OR</option>
+                    <option value="pa_state">PA</option>
+                    <option value="ri_state">RI</option>
+                    <option value="sc_state">SC</option>
+                    <option value="sd_state">SD</option>
+                    <option value="tn_state">TN</option>
+                    <option value="tx_state">TX</option>
+                    <option value="ut_state">UT</option>
+                    <option value="vt_state">VT</option>
+                    <option value="va_state">VA</option>
+                    <option value="wa_state">WA</option>
+                    <option value="wv_state">WV</option>
+                    <option value="wi_state">WI</option>
+                    <option value="wy_state">WY</option>
+                </select>
+            </fieldset>
+
+
+        </form>
+        <table id="senate-data" class="table table-hover table-responsive-sm ">
+
+        </table>
+    </div>
+    <footer class="panel-footer bg-secondary">
+        <p class="text-center text-white" class="text-muted">&#169;2016 TGIF || All righits reserved </p>
+    </footer>
+
+    <!-- JS -->
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    <script src="../pro-congress-113-senate.js">
+    </script>
+    <script src="../main.js">
+
+    </script>
+</body>
+
+</html>
