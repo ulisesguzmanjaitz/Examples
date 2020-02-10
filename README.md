@@ -1,2 +1,2 @@
 # Examples
-La app de facturación solo falta la base de datos
+La app de facturación esta hecha en SQL SERVER 2008 con Visual Studio 2012
