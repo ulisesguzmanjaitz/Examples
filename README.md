@@ -8,4 +8,6 @@ Telefono : +54 9 2224 443361
 
 La app de facturación esta hecha en SQL SERVER 2008 con Visual Studio 2012.
 
+Modulo del 1 al 5 son del curso FULL STACK de MINDHUB becado por el gobierno
+
 Modulo 5 aplicacion completa realizada con HTML CSS JS BOOTSTRAP JAVA SPRING SPRING BOT JSON (BATALLA NAVAL)
